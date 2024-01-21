@@ -3,16 +3,16 @@
 
 ![WhatsApp Image 2024-01-21 at 02 05 39_9e4e2970](https://github.com/NitikaNahata/Social_Network_GraphML/assets/149837825/7c6b447e-bb87-4e5f-9264-14e8fc11cf05)
 
-#Ontology
+# Ontology
 
 
-#Overview:
+# Overview:
 In this social network graph, users can create posts, comment on posts, like posts, send messages to each other, attend events, and be members of organizations. The relationships capture various interactions and connections between users, posts, topics, comments, likes, messages, events, and organizations.
 
 For example, a user might post a message, and other users can like or comment on that post. Users can be friends, attend events, or be members of organizations. The graph structure allows for querying and analyzing social interactions, exploring friendships, identifying popular topics, and understanding the overall social network dynamics.
 
 
-#Nodes and Relationships
+# Nodes and Relationships
 
 Cypher code creates a small ontology within a graph database (e.g., Neo4j) representing a social network scenario. Here's a brief description of the key entities and relationships:
 
